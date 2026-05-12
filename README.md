@@ -27,23 +27,40 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 🎓 Who am I?
+
+Hey there! I'm **Shehan Nethsara**, a passionate **Software Engineering student** at **IJSE, Sri Lanka 🇱🇰** — turning coffee ☕ into code, one commit at a time.
+
+I'm on a mission to bridge the gap between **Full Stack Development** and **Data Science & Machine Learning** — building real-world applications that are not just functional, but intelligent.
+
+<br/>
+
+### 🔥 What drives me?
+
+- 🧠 &nbsp;Fascinated by how **data tells stories** and how **ML models** make decisions
+- 🏗️ &nbsp;Love building **end-to-end systems** — from database design to polished UI
+- 🌱 &nbsp;Firm believer in **learning by building** — every project teaches something new
+- 🎯 &nbsp;Currently seeking an **internship** where I can grow, contribute & make an impact
+
+<br/>
+
+### 📌 Right now I'm...
+
 ```python
-class ShehanNethsara:
-    def __init__(self):
-        self.name       = "Shehan Nethsara"
-        self.role       = "Software Engineering Student"
-        self.location   = "Sri Lanka 🇱🇰"
-        self.focus      = ["Full Stack Development", "Data Science", "Data Analysis"]
-        self.languages  = ["Java", "Python", "TypeScript", "JavaScript", "SQL"]
-        self.learning   = ["Spring Boot", "React", "Machine Learning"]
-        self.open_to    = "Internships & Collaborations"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
-
-me = ShehanNethsara()
-me.say_hi()
+shehan = {
+    "📍 location"  : "Sri Lanka 🇱🇰",
+    "🎓 studying"  : "Software Engineering @ IJSE",
+    "🔭 exploring" : ["Data Science", "Machine Learning", "Deep Learning"],
+    "🛠️ building"  : "Full Stack Web Applications",
+    "🌱 learning"  : ["Python for ML", "Pandas", "Scikit-learn", "TensorFlow"],
+    "💼 open to"   : "Internship Opportunities — Let's connect!",
+    "⚡ fun fact"  : "I debug code faster at midnight 🌙",
+}
 ```
+
+<br clear="right"/>
 
 ---
 
